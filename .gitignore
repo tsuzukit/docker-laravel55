@@ -4,3 +4,4 @@ db_data
 
 src/vendor
 src/.env
+src/node_modules
