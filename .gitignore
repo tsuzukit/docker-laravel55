@@ -1,0 +1,6 @@
+*.DS_Store
+.idea
+db_data
+
+src/vendor
+src/.env
